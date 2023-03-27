@@ -3,48 +3,49 @@
 }
 
 body {
-        background-color:var(--primary)
+    background-color: var(--primary)
 }
 
-:root{
-    --primary:aqua;
-    --header-font:"Comic Sans MS";
+:root {
+    --primary: aqua;
+    --header-font: "Comic Sans MS";
 }
+
 .about {
-    display:flex;
-    
+    display: flex;
+
 }
 
 .about h2 {
-    width:25%;
+    width: 25%;
     text-align: right;
     padding-right: 25px;
     border-right: 5px solid black;
     margin-right: 15px;
-    font-family:var(--header-font)
+    font-family: var(--header-font)
 }
 
 .top-banner {
-    display:flex;
-    width:100%;
-    justify-content:space-between;
-    align-items:center;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
 }
 
-.links{
-    width:40%;
+.links {
+    width: 40%;
 }
 
-.links ul{
-    display:flex;
-    justify-content:space-evenly;
+.links ul {
+    display: flex;
+    justify-content: space-evenly;
     list-style-type: none;
 }
 
 a {
     text-decoration: none;
     color: black;
-    opacity:.2;
+    opacity: .2;
 }
 
 a:hover {
@@ -54,5 +55,5 @@ a:hover {
 
 a:visited {
     text-decoration: none;
-    color:black;
+    color: black;
 }
