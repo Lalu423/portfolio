@@ -7,7 +7,7 @@ body {
 }
 
 :root {
-    --primary: aqua;
+    --primary: gray;
     --header-font: "Comic Sans MS";
 }
 
@@ -23,6 +23,20 @@ body {
     border-right: 5px solid black;
     margin-right: 15px;
     font-family: var(--header-font)
+}
+
+#projects h2 {
+    width: 25%;
+    text-align: right;
+    padding-right: 25px;
+    border-right: 5px solid black;
+    margin-right: 15px;
+    font-family: var(--header-font)
+}
+
+.project-links {
+    display: flex;
+    justify-content:center;
 }
 
 .top-banner {
@@ -56,4 +70,8 @@ a:hover {
 a:visited {
     text-decoration: none;
     color: black;
+}
+
+.contact {
+    justify-content: center;
 }
