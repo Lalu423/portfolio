@@ -2,7 +2,7 @@
 
 ## Description 
 
-This is my first attempt at creating a portfolio website from scratch, it needs some more work but I am happy with the results. I will continue to add upon this code as it is a work in progress to grow along with my knowledge of HTML and CSS.  
+This is my first attempt at creating a portfolio website from scratch, it needs some more work but I will continue to upgrade and add new things as I gain more experience with HTML and CSS. I am excited to continue adding to this page and seeing my progress as I gain more knowledge. 
 
 ## Usage example
 
