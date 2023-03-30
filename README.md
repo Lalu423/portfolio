@@ -6,9 +6,9 @@ This is my first attempt at creating a portfolio website from scratch, it needs 
 
 ## Usage example
 
-<img src="https://github.com/Lalu423/portfolio/blob/main/assets/images/horiseon_refactor_sample.jpg" width="500"/>
+<img src="https://github.com/Lalu423/portfolio/blob/main/assets/images/portfolio-sample.jpg" width="500"/>
 
-[Link to Repo](https://github.com/Lalu423/refactoring-project)
+[Link to Repo](https://github.com/Lalu423/portfolio)
 
 [Link to Site](https://lalu423.github.io/refactoring-project/)
 
